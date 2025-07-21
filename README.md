@@ -2,25 +2,25 @@
 Fixes the music crashes in the portmaster release of Render96ex with a few extras such as higher quality music and a build with some custom music.
 
 v0.1.0 (Render96ex music crash fix) includes:
--no more music causing crashes (I'm pretty sure. Please tell me if you do find a certain level that crashes.)
--higher quality music
+  no more music causing crashes (I'm pretty sure. Please tell me if you do find a certain level that crashes.),
+  higher quality music
 
 v0.1.0-custom (Render96ex music crash fix + custom music) includes:
-  no more music causing crashes (I'm pretty sure. again, please tell me if you do find a certain level that crashes.)
-  higer quality music
+  no more music causing crashes (I'm pretty sure. again, please tell me if you do find a certain level that crashes.),
+  higer quality music,
   custom music in some stages to make your experience just a little more unique
 
 Fixed songs include:
-  Wing Cap/Vanish Cap/Shell theme
-  Hazy Maze Cave
-  Final Bowser's theme
-And more!
+  Wing Cap/Vanish Cap/Shell theme,
+  Hazy Maze Cave,
+  Final Bowser's theme,
+and more!
 
 Custom songs include:
-  Slippery Slide (CCM slide) (by me)
-  Dangerous Slide (TTM slide) (by me)
-  Tick Tock Clock from MK DS plays in Tick Tock Clock
-  Balloon Mario theme from SM64 DS plays while using the Vanish Cap
+  Slippery Slide (CCM slide) (by me),
+  Dangerous Slide (TTM slide) (by me),
+  Tick Tock Clock from MK DS plays in Tick Tock Clock,
+  Balloon Mario theme from SM64 DS plays while using the Vanish Cap,
   Flying Owl theme from SM64 DS plays while using the Shell
 
 I've worked pretty hard to find the root of the crashing issue so I hope you enjoy!!

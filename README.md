@@ -23,13 +23,13 @@ Custom songs include:
   Balloon Mario theme from SM64 DS plays while using the Vanish Cap,
   Flying Owl theme from SM64 DS plays while using the Shell
 
-I've worked pretty hard to find the root of the crashing issue so I hope you enjoy!!
-
 CREDITS!!
-  Nintendo
-  Render96/Render96ex team
-  "Church of Kondo" on Youtube for the amazing high quality remastered SM64 OST
-  Tick Tock Clock MK DS restored by "Splode's Studio" on Youtube
+  Nintendo,
+  Render96/Render96ex team,
+  "Church of Kondo" on Youtube for the amazing high quality remastered SM64 OST,
+  Tick Tock Clock MK DS restored by "Splode's Studio" on Youtube,
   me
+
+I've worked pretty hard to find the root of the crashing issue so I hope you enjoy!!
 
 I do not claim ownership of any of the music used in this project except for the remixes that I made. All music belongs to their respective copyright holders.

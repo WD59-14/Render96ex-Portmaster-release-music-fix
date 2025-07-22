@@ -1,4 +1,7 @@
 # Render96ex-Portmaster-release-music-fix
+READ BEFORE INSTALLING v0.1.0!!!
+MAKE SURE YOU DELETE ALL THE FILES INSIDE THE AUDIO FOLDER BEFORE COPYING IN THE NEW ONES!! THE GAME WILL VERY LIKELY NOT BOOT IF YOU DO NOT DELETE THEM!!
+
 Fixes the music crashes in the portmaster release of Render96ex with a few extras such as higher quality music and a build with some custom music.
 
 v0.1.0 (Render96ex music crash fix) includes:

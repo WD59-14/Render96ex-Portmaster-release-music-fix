@@ -10,6 +10,8 @@ v0.1.0-custom (Render96ex music crash fix + custom music) includes:
   higer quality music,
   custom music in some stages to make your experience just a little more unique
 
+NOTE: both of these builds use the song "Coincentration" from SM64 DS because I couldn't find a high quality version of the "Fourth Floor" theme in the original Render96ex.
+
 Fixed songs include:
   Wing Cap/Vanish Cap/Shell theme,
   Hazy Maze Cave,
